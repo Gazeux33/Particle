@@ -1,1 +1,1 @@
-![particle](https://i.imgur.com/qXvpisY.gif)
+![particle](https://i.imgur.com/UqQUep1.gif)
