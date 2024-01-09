@@ -4,7 +4,7 @@ const points = [];
 
 const noiseScale = 0.01;
 const pointSize = 7;
-const distanceLine = 50;
+const distanceLine = 150;
 const shadowSize = 100;
 const velocity = 1;
 const uniqueLine = false
